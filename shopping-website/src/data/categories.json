@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Women",
+    "subcategories": [
+      { "id": 1, "name": "Top Wear" },
+      { "id": 2, "name": "Bottom Wear" },
+      { "id": 3, "name": "Dresses" },
+      { "id": 4, "name": "Indian Wear" },
+      { "id": 5, "name": "Sleep Wear" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Men",
+    "subcategories": [
+      { "id": 6, "name": "Top Wear" },
+      { "id": 7, "name": "Bottom Wear" },
+      { "id": 8, "name": "Sports Wear" },
+      { "id": 9, "name": "Lounge Wear" },
+      { "id": 10, "name": "Indian Wear" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Girls",
+    "subcategories": [
+      { "id": 11, "name": "Top Wear" },
+      { "id": 12, "name": "Bottom Wear" },
+      { "id": 13, "name": "Dresses" },
+      { "id": 14, "name": "Indian Wear" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Boys",
+    "subcategories": [
+      { "id": 15, "name": "Top Wear" },
+      { "id": 16, "name": "Bottom Wear" },
+      { "id": 17, "name": "Indian Wear" }
+    ]
+  }
+]

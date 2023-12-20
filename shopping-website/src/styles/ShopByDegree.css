@@ -1,0 +1,50 @@
+.shop-by-degree {
+  text-align: center;
+  padding: 20px;
+  padding-top: 5px;
+}
+.style {
+  height: 2px;
+  color: red;
+  width: 30px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.shop-by-degree h2 {
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+.cards-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-grow: 2;
+}
+.collection-card {
+  margin-top: 20px;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.collection-card img {
+  width: 70%;
+  height: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.collection-card p {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+/* Media query for small screens */
+@media screen and (max-width: 768px) {
+  .collection-card img {
+    max-width: 100%;
+  }
+}
